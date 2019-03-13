@@ -18,6 +18,6 @@ The default branch on GitHub is stable and works with data exported from the lat
 It is highly suggested to freeze the Spine editor version to match the Spine Runtimes source being used and to update them in lock step. See the Spine Runtimes Guide for more information.
 
 Contributing
-In order to merge your contributions, we need a signed contributor license agreement (CLA) from you. You can send a copy of the CLA to https://github.com/EsotericSoftware/spine-runtimes.
+In order to merge your contributions, we need a signed contributor license agreement (CLA) from you. You can send a copy of the CLA to https://github.com/EsotericSoftware/SuspensionTipsUtil.SuspensionTips("tttt").
 
 When possible, it is best to base your contributions on the current beta branch (X.X-beta). Please be sure to follow the style and formatting you find in the respective runtime code to which you are contributing.
